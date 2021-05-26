@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio3/static/css/main.94ca7b87.chunk.css",
+    "main.js": "/github.io/portfolio3/static/js/main.c715dbcd.chunk.js",
+    "main.js.map": "/github.io/portfolio3/static/js/main.c715dbcd.chunk.js.map",
+    "runtime-main.js": "/github.io/portfolio3/static/js/runtime-main.d6774e10.js",
+    "runtime-main.js.map": "/github.io/portfolio3/static/js/runtime-main.d6774e10.js.map",
+    "static/js/2.ab707d45.chunk.js": "/github.io/portfolio3/static/js/2.ab707d45.chunk.js",
+    "static/js/2.ab707d45.chunk.js.map": "/github.io/portfolio3/static/js/2.ab707d45.chunk.js.map",
+    "static/js/3.5a30146b.chunk.js": "/github.io/portfolio3/static/js/3.5a30146b.chunk.js",
+    "static/js/3.5a30146b.chunk.js.map": "/github.io/portfolio3/static/js/3.5a30146b.chunk.js.map",
+    "index.html": "/github.io/portfolio3/index.html",
+    "static/css/main.94ca7b87.chunk.css.map": "/github.io/portfolio3/static/css/main.94ca7b87.chunk.css.map",
+    "static/js/2.ab707d45.chunk.js.LICENSE.txt": "/github.io/portfolio3/static/js/2.ab707d45.chunk.js.LICENSE.txt",
+    "static/media/Monkey_Space_Shooter.png": "/github.io/portfolio3/static/media/Monkey_Space_Shooter.b89299cc.png",
+    "static/media/Save_Erica.png": "/github.io/portfolio3/static/media/Save_Erica.c2fbe9db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6774e10.js",
+    "static/js/2.ab707d45.chunk.js",
+    "static/css/main.94ca7b87.chunk.css",
+    "static/js/main.c715dbcd.chunk.js"
+  ]
+}
