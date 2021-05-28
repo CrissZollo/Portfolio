@@ -22,6 +22,7 @@ class DisplayProjects extends Component<{}, { tempSave: Object }> {
         return (
             <div className="wrapper">
                 <h1>Projects</h1>
+                <p className="smallInfo"><small>*Hover projects to read more about them.</small></p>
                 {projects.map((project: { title: string, url: string, image: string, information: string }, index: number) => {
                     if ((index + 1) % 2 === 0) {
                         return (

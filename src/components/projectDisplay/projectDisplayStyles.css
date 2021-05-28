@@ -7,6 +7,10 @@
     font-size: calc(4vw)
 }
 
+.smallInfo {
+    text-align: center;
+}
+
 .row {
     display: flex;
     flex-direction: row;
