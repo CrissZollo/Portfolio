@@ -4,11 +4,13 @@
 
 .wrapper h1 {
     text-align: center;
-    font-size: calc(4vw)
+    font-size: calc(4vw);
+    color: #ffffff;
 }
 
 .smallInfo {
     text-align: center;
+    color: #ffffff;
 }
 
 .row {
@@ -33,7 +35,7 @@
     width: 20vw;
     margin-top: 1.5rem;
     border-radius: 20px 50px;
-    background-color: rgb(255, 255, 255);
+    background-color: #57535c;
     padding: 1rem;
     transition: 0.2s ease-in-out;
 }
@@ -48,10 +50,6 @@
     position: absolute;
 }
 
-/* .project {
-    left: 10px;
-} */
-
 .project-image {
     border-radius: 20px;
     height: 35vw;
@@ -61,11 +59,15 @@
 
 
 .text {
-    display: flex;
     flex-direction: column;
     text-align: center;
     width: 100%;
     font-size: 1.5vw;
+    color: #ffffff;
+}
+
+.text a {
+    color: #fff;
 }
 
 @media only screen and (max-width: 750px) {

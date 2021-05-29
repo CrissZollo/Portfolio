@@ -17,7 +17,7 @@ export const projects = [
         title: 'Minecraft Wiki',
         url: 'http://85.24.194.62/',
         image: IMAGE.MINECRAFT,
-        information: "A minecraft wiki made for my own server on minecraft. This site let's you create poi (points of interests) create available trades and see how much everthing will cost and some other things. To log in use username 'Tester' and password Testing123"
+        information: "A minecraft wiki made for my own server on minecraft. This site let's you create poi (points of interests) create available trades and see how much everthing will cost and some other things. To log in use username 'Tester' and password 'Testing123'"
     },
     {
         title: 'Ecclesia',
